@@ -1,0 +1,41 @@
+name: Raven
+version: ${timestamp} | ${computerName}
+description: Secret plugin.
+author: Kerem Celik
+main: net.frozenorb.Raven.RavenPlugin
+depend: [qLib, mBasic, mCommon]
+commands:
+    price:
+    savedata:
+    buy:
+    logout:
+    track:
+    end:
+    sethome:
+    home:
+    lock:
+    kits:
+    kit:
+    help:
+      aliases: ["\u003F"]
+    sell:
+    resetprice:
+    checknear:
+    hud:
+    warp:
+      aliases: [goto, go, warpto]
+    withdraw:
+    convertdata:
+    spawn:
+    addvip:
+    addmvp:
+    addpro:
+    kwho:
+    setbal:
+    bal:
+      aliases: [balance, balanc, $, gold]
+    deposit:
+      aliases: [d]
+    tas:
+      aliases: [teamas]
+    features:

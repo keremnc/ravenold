@@ -1,0 +1,17 @@
+Default_Warp_Amount: 5
+Groups:
+  VIP: 15
+  MVP: 20
+  PRO: 25
+disableIfPlayerIsNearby: true
+nearbyPlayerRadius: 10
+STONE_BORDER: 137
+SPAWN_MAX_X: 65
+SPAWN_MAX_Z: 65
+SPAWN_MIN_X: -67
+SPAWN_MIN_Z: -67
+SPAWN_Y_LEVEL: 65
+RESET_AFTER_CHUNK_COORD: 9
+nerfAllMobs: true
+economy: true
+warps: true
